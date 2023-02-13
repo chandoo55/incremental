@@ -1,0 +1,9 @@
+{
+	"name": "UAT111",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13108512-0586-4a1e-9e91-73ce6bdafd09",
+		"tenantId": "b423aed5-57f5-4c5f-9bd5-b45f2ea42cd3"
+	}
+}
