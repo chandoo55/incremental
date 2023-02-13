@@ -1,0 +1,9 @@
+{
+	"name": "chandf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae0c63b7-65a2-4684-a519-34e448da1d35",
+		"tenantId": "b423aed5-57f5-4c5f-9bd5-b45f2ea42cd3"
+	}
+}
